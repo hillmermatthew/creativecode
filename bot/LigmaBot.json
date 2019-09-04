@@ -4,9 +4,11 @@
 	
 "laugh": ["LMAO","lol","haha","lmao haha","LOL","","lolllll","HA","HAHA","","","","",""],
 
-"reaction": ["#laugh#","#laugh#","#laugh#","uh oh","woah","WTF","WHAT OMG","oh my god","omg","huh","omg#qnum#","huh#qnum#","what#qnum#","OMG#qnum#","","",""],
+"reaction": ["#laugh#","#laugh#","#laugh#","uh oh","woah","WTF","WHAT OMG","oh my god","omg","huh","omg#qnum#","huh#qnum#","what#qnum#","OMG#qnum#","bruh","","",""],
 
-"qnum": ["?","?","?","?","?","?","?","?","?","?","?","?","?","?","?","??","??","??","???","???","???","????","????","?????","??????"],
+"qnum": ["?","#qloop#?"],
+
+"qloop": ["#qnum#"],
 	
 
 "person": ["Michael Jordan","Samuel L. Jackson","Matt","Johnny Depp","ninja from fortnite","sans undertale","shrek","ur mom","sans","obama","Jim Carrey","Bill Murray","Arnold Schwarzenegger","Shaq","Tom Cruise","Brad Pitt","Morgan Freeman","Tom Hanks","Hugh Jackman","Matt Damon","Sylvester Stallone","Will Smith","Clint Eastwood","George Clooney","Steven Spielberg","Elon Musk","Harrison Ford","Robert De Niro","Al Pacino","Liam Neeson","Iron Man","Mark Wahlberg","Pierce Brosnan","The Rock","Jackie Chan","Adam Sandler","Will Ferrell","Nicolas Cage","Keanu Reeves","Bruce Willis","Ben Stiller","Denzel Washington","Lil Nas X","Kanye","Shia LaBeouf","steve from minecraft","minecraft steve","Steve Carell","Mel Gibson","Vin Diesel","Tim Allen","Jason Statham","John Travolta","Batista","Kylo Ren"],
