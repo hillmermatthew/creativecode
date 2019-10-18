@@ -1,7 +1,7 @@
-# Logo Bounce
+# "Planets" Screensaver
 
-This project is a "screensaver" designed for the media wall in the HCC. The main image is a logo of umw with a solid-colored square behind it. That logo moves around in the open space and changes color whenever it strikes a wall. The walls around this space are designed to match the opening on the media wall, so the effect is the logo bouncing around on that irregularly-shaped screen. 
+This project is a space-themed "screensaver" consisting of colorful falling 3D "Planet" spheres on a black background.  I created this in the [p5js web editor](https://editor.p5js.org).  
 
-For version I'm sharing here, run it by copying the javascript [source code](forthewall.js) into a [p5.js editor](http://editor.p5js.org). Spawn new logos with the space bar.
+You can view it [here](https://editor.p5js.org/hillmermatthew/present/Yfd0Z1iC2), or you can play around with the code itself by copying the javascript [source code](planets.js) into a [p5.js editor](http://editor.p5js.org).
 
-The inspiration for this project is the classic [bouncing DVD logo](https://www.youtube.com/watch?v=QOtuX0jL85Y).
+Shoutouts to [TheCodingTrain's "Starfield" example](https://editor.p5js.org/codingtrain/sketches/1wLHIck3T) (as well as the various sample code snippets found in the [p5js "References" page](https://p5js.org/reference/)), they were really helpful for helping me learn the necessary concepts to make this.
