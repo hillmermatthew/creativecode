@@ -5,6 +5,8 @@ Various "glitch art" images and videos that I put together using techniques like
 I started with a picture of Obama as my main source image to try and glitch, but I ended up playing with a few other images as well.
 The only concrete theme here is that I thought these were all cool, they're all things I like the style of.
 
+To view all of the images in an easy "Gallery" style format, check out http://glitch.mattswebsite.net/ 
+
 ### Databending
 For "Cool" and "Costanza", I got a neat overlay effect by loading the same picture into multiple audio tracks in Audacity and applyiing different effects to each.  For this to work, I had to make sure the beginning of the duplicate track was muted, that way it wouldn't interfere with any of the important code at the start of the first one.
 "Selfie" was made in a similar way, but by layering two entirely different images over one another.
